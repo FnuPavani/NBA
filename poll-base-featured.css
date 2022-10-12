@@ -313,7 +313,7 @@ body {
         flex-grow: 0 !important;
         margin: 0px !important;
         text-align: left !important;
-        margin-left: 10px !important;
+        margin-left: 5px !important;
         float: left !important;
       }
       #activity-list-v2 > div.container > ul > li > div.info-container > div {
