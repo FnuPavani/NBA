@@ -58,7 +58,7 @@ body {
     #reward-list-v2 .rewards .reward {
         margin: 10px 10px 10px 0px !important;
         background: white !important;
-        border-radius: 0 0 4px 4px;
+        border-radius: 4px !important;
     }
 
 }
@@ -348,7 +348,7 @@ a:hover {
     #reward-list-v2 .rewards .reward {
         width: auto !important;
         background: white !important;
-        border-radius: 0 0 4px 4px;
+        border-radius: 4px !important;
         margin-top: 1% !important;
     }
 
