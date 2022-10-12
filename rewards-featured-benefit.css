@@ -89,7 +89,7 @@ body {
     }
 
     #reward-list-v2 .rewards .reward img {
-        margin: auto !important;
+        margin-top: 2% !important;;
         display: block !important;
         padding: 10px !important;
         position: static !important;
