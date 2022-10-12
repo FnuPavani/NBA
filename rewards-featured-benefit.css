@@ -329,7 +329,7 @@ a:hover {
     }
 
     #reward-list-v2 .rewards .reward img {
-        margin-top: 2% !important;;
+        margin: auto !important;
         display: block !important;
         padding: 10px !important;
         position: static !important;
@@ -342,6 +342,7 @@ a:hover {
         order: 0 !important;
         align-self: stretch !important;
         flex-grow: 0 !important;
+        margin-top: 2% !important;
     }
 
     #reward-list-v2 .rewards .reward {
