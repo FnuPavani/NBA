@@ -24,7 +24,7 @@ body {
         left: 10px !important;
     } */
     #reward-list-v2 .rewards .reward .content {
-        margin-left: 20px !important;
+        margin-left: 10px !important;
 
         /* nba/headline-02 */
 
@@ -37,6 +37,7 @@ body {
 
         text-transform: uppercase;
         font-feature-settings: 'ss02' on;
+        padding-left: 0px !important;
     }
 
     #reward-list-v2 .rewards .reward img {
