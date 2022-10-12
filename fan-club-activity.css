@@ -63,7 +63,7 @@ body {
                 left: 0px !important;
                 top: 0px !important;
                 background: #FFFFFF !important;
-                border-radius: 0px 0px 4px 4px !important;
+                border-radius: 4px !important;
                 flex: none !important;
                 order: 1 !important;
                 align-self: stretch !important;
@@ -256,7 +256,7 @@ flex-direction: column !important; */
 
         #activity-list-v2 .activity {
                 background: #FFFFFF !important;
-                border-radius: 0px 0px 4px 4px !important;
+                border-radius: 4px !important;
                 display: block;
         }
 
