@@ -20,9 +20,9 @@ body {
 
 /* Small devices (portrait tablets and large phones, 768px and up) */
 @media only screen and (max-width: 768px) {
-    .widget .header { 
+/*     .widget .header { 
         left: 10px !important;
-    }
+    } */
     #reward-list-v2 .rewards .reward .content {
         margin-left: 20px !important;
 
@@ -55,7 +55,7 @@ body {
     }
 
     #reward-list-v2 .rewards .reward {
-        margin: 10px !important;
+        margin: 10px 10px 10px 0px !important;
         background: white !important;
         border-radius: 0 0 4px 4px;
     }
