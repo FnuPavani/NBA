@@ -55,7 +55,7 @@ body {
         display: flex !important;
         flex-direction: column !important;
         align-items: flex-start !important;
-        padding: 0% !important;
+        padding: 10px !important;
         position: static !important;
         width: 100% !important;
 /*         height: 246px !important; */
@@ -87,7 +87,8 @@ body {
       }
 
       #activity-list-v2 > div.container > ul > li {
-        margin-top: 1% !important;
+/*         margin-top: 1% !important; */
+        padding: 10px !important;
         border-radius: 4px !important;
         border-bottom: 1px solid #bbb !important;
     }
@@ -117,10 +118,10 @@ body {
       display: flex !important;
       flex-direction: column !important;
       align-items: flex-start !important;
-      padding: 5px !important;
+/*       padding: 5px !important; */
       position: static !important;
-      width: 291px !important;
-      height: 174px !important;
+      width: 100% !important;
+      height: 166px !important;
       left: calc(50% - 323px/2) !important;
       top: 0px !important;
       flex: none !important;
@@ -130,6 +131,11 @@ body {
 /*         margin: 8px 0px !important; */
       border-radius: 4px !important;
       background-color: inherit !important;
+    }
+    
+    #activity-list-v2 .image-container img {
+        width: 100% !important;
+        height: 166px !important; 
     }
  
  }
