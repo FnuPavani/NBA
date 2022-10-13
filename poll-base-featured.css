@@ -249,7 +249,7 @@ body {
       align-self: stretch !important;
       flex-grow: 0 !important;
 /*         margin: 8px 0px !important; */
-      border-radius: 0px !important;
+      border-radius: 4px !important;
       background-color: inherit !important;
     }
 }
