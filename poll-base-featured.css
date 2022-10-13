@@ -301,7 +301,7 @@ body {
 /*         margin-top: 1% !important; */
         padding: 10px !important;
         border-radius: 4px !important;
-        border-bottom: 1px solid #bbb !important;
+/*         border-bottom: 1px solid #bbb !important; */
     }
 
     #activity-list-v2 .activity  {
@@ -310,7 +310,7 @@ body {
       padding: 0px 0px 16px !important;
       position: static !important;
       width: 100% !important;
-      height: 246px !important;
+      height: 270px !important;
       left: 0px !important;
       top: 0px !important;
       background: #FFFFFF !important;
