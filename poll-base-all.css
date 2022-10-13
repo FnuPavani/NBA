@@ -35,7 +35,7 @@ body {
 
     #activity-list-v2>div.container>ul>li {
         margin-top: 10px !important;
-        border-radius: 0 0 4px 4px !important;
+        border-radius: 4px !important;
         border-bottom: 1px solid #bbb !important;
     }
 
@@ -53,7 +53,7 @@ body {
         left: 0px !important;
         top: 0px !important;
         background: #FFFFFF !important;
-        border-radius: 0px 0px 4px 4px !important;
+        border-radius: 4px !important;
         flex: none !important;
         order: 1 !important;
         align-self: stretch !important;
@@ -79,7 +79,7 @@ body {
         align-self: stretch !important;
         flex-grow: 0 !important;
         /*         margin: 8px 0px !important; */
-        border-radius: 0px !important;
+        border-radius: 4px !important;
         background-color: inherit !important;
     }
     
@@ -136,7 +136,7 @@ body {
         left: 0px !important;
         top: 0px !important;
         background: #FFFFFF !important;
-        border-radius: 0px 0px 4px 4px !important;
+        border-radius: 4px !important;
         flex: none !important;
         order: 1 !important;
         align-self: stretch !important;
@@ -162,7 +162,7 @@ body {
         align-self: stretch !important;
         flex-grow: 0 !important;
         /*         margin: 8px 0px !important; */
-        border-radius: 0px !important;
+        border-radius: 4px !important;
         background-color: inherit !important;
     }
     
@@ -217,7 +217,7 @@ body {
         left: 0px !important;
         top: 0px !important;
         background: #FFFFFF !important;
-        border-radius: 0px 0px 4px 4px !important;
+        border-radius: 4px !important;
         flex: none !important;
         order: 1 !important;
         align-self: stretch !important;
@@ -243,7 +243,7 @@ body {
         align-self: stretch !important;
         flex-grow: 0 !important;
         /*         margin: 8px 0px !important; */
-        border-radius: 0px !important;
+        border-radius: 4px !important;
         background-color: inherit !important;
     }
     
