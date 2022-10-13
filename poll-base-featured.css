@@ -277,6 +277,7 @@ body {
         flex-grow: 0 !important;
         /* margin: 40px 0px !important; */
         height: auto !important;
+        padding-left: 1px !important;
       }
     
       #activity-list-v2 ul{
@@ -347,6 +348,11 @@ body {
     #activity-list-v2 .image-container img {
         width: 100% !important;
         height: 166px !important; 
+    }
+    
+    #activity-list-v2 .activity .title,
+    .ct-link-color {
+        margin-left: 0px !important;
     }
  
  }
