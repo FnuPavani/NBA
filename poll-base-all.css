@@ -310,6 +310,7 @@ body {
 
     .widget .container {
         padding: 10px !important;
+        padding-left: 1px !important;
     }
 
     #activity-list-v2 .activity {
@@ -363,5 +364,10 @@ body {
         align-self: stretch !important;
         flex-grow: 0 !important;
         /*         margin: 10px 0px !important; */
+    }
+    
+    #activity-list-v2 .activity .title,
+    .ct-link-color {
+        margin-left: 3px !important;
     }
 }
