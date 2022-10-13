@@ -354,5 +354,9 @@ body {
     .ct-link-color {
         margin-left: 0px !important;
     }
+    
+     #activity-list-v2 .point-value.completed .fa-check-circle {
+        margin-left: 5px !important;   
+    }
  
  }
