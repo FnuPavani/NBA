@@ -18,6 +18,10 @@ body {
     background-color: #F3F4F5 !important;
 }
 
+* {
+    overflow-y: unset !important;
+}
+
 /* Small devices (portrait tablets and large phones, 768px and up) */
 @media only screen and (max-width: 768px) {
 /*     .widget .header { 
