@@ -18,7 +18,7 @@ body {
         background-color: #F3F4F5 !important;
 }
 
-.no-js {
+html {
   overflow-y: hidden !important;      
 }
 
