@@ -38,7 +38,7 @@
     src: url("./SF-Pro-Text-Regular.otf") format("opentype");
 }
 
-html {
+* {
     overflow-y: unset !important;
 }
 
