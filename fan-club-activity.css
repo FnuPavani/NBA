@@ -18,6 +18,10 @@ body {
         background-color: #F3F4F5 !important;
 }
 
+* {
+    overflow-y: unset !important;
+}
+
 @media only screen and (min-width: 768px) {
         .widget .container {
                 display: flex !important;
