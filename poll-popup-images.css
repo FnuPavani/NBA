@@ -38,8 +38,12 @@
   src: url("./SF-Pro-Text-Regular.otf") format("opentype");
 }
 
-* {
+/* * {
   overflow: hidden !important;
+} */
+
+html {
+    overflow-y: overlay !important;
 }
 
 /* Small devices (portrait tablets and large phones, 768px and up) */
