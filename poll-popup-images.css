@@ -47,7 +47,7 @@
 @media only screen and (max-width: 500px) {
   
   html {
-      overflow-y: overlay !important;
+      overflow-y: hidden !important;
   }
   
   div#poll-v2 {
