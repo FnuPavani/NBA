@@ -350,6 +350,7 @@ fieldset {
   font-weight: 400 !important;
   font-size: 20px !important;
   line-height: 80% !important;
+  margin-right: 18px !important;
 }
 
 a:hover {
