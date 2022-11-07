@@ -71,6 +71,7 @@ body {
     padding-left: 0px !important;
     padding-top: 32px !important;
     padding-bottom: 0px !important;
+    margin: 40px 0px !important;
 }
 
 #reward-list-v2 .rewards {
@@ -121,6 +122,7 @@ body {
     color: #000000 !important;
     margin-left: 0px !important;
     padding: 0px !important;
+    margin: 16px 0px !important;
 }
 
 #redeem-v2 h2 {
@@ -300,7 +302,7 @@ fieldset {
     font-weight: 400 !important;
     font-size: 20px !important;
     line-height: 80% !important;
-    margin-right: 18px !important;
+    margin-right: 20px !important;
     overflow: hidden !important;
 }
 
