@@ -309,7 +309,7 @@ flex-direction: column !important; */
         
    #activity-list-v2 .activity .title, 
         .ct-link-color {
-        margin: 0px 11px !important; 
+           margin: 20px 11px 0px !important;
    }
         
    #activity-list-v2>div.container>ul>li>div.info-container>div {
