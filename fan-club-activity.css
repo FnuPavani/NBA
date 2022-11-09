@@ -165,6 +165,7 @@ flex-direction: column !important; */
                 margin: 0px !important;
                 text-align: left !important;
                 margin-left: 4px !important;
+                margin-right: 4px !important;
         }
         
         #activity-list-v2 .activity .title {
@@ -323,6 +324,7 @@ flex-direction: column !important; */
                 margin: 0px !important;
                 text-align: left !important;
                 margin-left: 10px !important;
+                margin-right: 10px !important;
         }
         
         #activity-list-v2 .activity .title {
