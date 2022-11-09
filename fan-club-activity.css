@@ -99,7 +99,7 @@ flex-direction: column !important; */
         flex-grow: 0 !important;
         margin: 0px !important;
         text-align: left !important;
-        margin-left: 4px !important;
+        margin-left: 10px !important;
 }
 
 
@@ -128,7 +128,7 @@ flex-direction: column !important; */
 }
 
 #activity-list-v2 .activity .title {
-        margin-top: 10px !important;
+        margin-top: 20px !important;
 }
 
 #activity-list-v2 {
@@ -293,6 +293,7 @@ flex-direction: column !important; */
                 order: 0 !important;
                 align-self: stretch !important;
                 flex-grow: 0 !important;
+                margin-left: 6px !important;
         }
 
         #activity-list-v2>div.container>ul>li:not(:last-child) {
@@ -313,7 +314,7 @@ flex-direction: column !important; */
                 font-size: 16px !important;
                 line-height: 120% !important;
                 color: #000000 !important;
-                margin-left: 15px !important;
+                margin-left: 18px !important;
                 margin-bottom: 15px !important;
         }
 }
