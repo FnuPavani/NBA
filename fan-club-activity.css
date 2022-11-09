@@ -326,11 +326,10 @@ flex-direction: column !important; */
         }
         
         #activity-list-v2 .activity .title {
-            margin-top: 0px !important;  
-            margin: 0px 12px !important;
+            margin: 20px 14px 0px !important;
         }
         
         #activity-list-v2>div.container>ul>li>div.info-container>div{
-            margin: 0px 22px !important;  
+            margin: 10px 22px 0px !important;  
         }
 }
