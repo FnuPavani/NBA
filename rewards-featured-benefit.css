@@ -320,7 +320,7 @@ a:hover {
     #reward-list-v2 .rewards .reward .content {
         width: 294px;
         height: auto;
-        margin-left: 20px !important;
+        margin-left: 22px !important;
         padding: 0 !important;
 
         /* nba/headline-02 */
@@ -334,6 +334,10 @@ a:hover {
 
         text-transform: uppercase;
         font-feature-settings: 'ss02' on;
+    }
+    
+    #reward-list-v2 .rewards .reward .content .title {
+        margin-right: 22px !important;
     }
 
     #reward-list-v2 .rewards .reward img {
