@@ -186,8 +186,8 @@ flex-direction: column !important; */
         }
         #activity-list-v2 .activity .title, 
         .ct-link-color {
-                margin-left: 4px !important;
-                margin-right: 4px !important;
+                margin-left: 8px !important;
+                margin-right: 8px !important;
         }
 
 }
