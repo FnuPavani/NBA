@@ -318,7 +318,7 @@ flex-direction: column !important; */
    }
 }
 
-@media only screen and (min-width: 769px and max-width: 1023px) {
+@media only screen and (min-width: 769px) and (max-width: 1023px) {
        #activity-list-v2 .image-container img {
             width: 291px !important;
             height: 174px !important;
