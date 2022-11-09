@@ -296,7 +296,8 @@ flex-direction: column !important; */
         }
         #activity-list-v2 .activity .title, 
         .ct-link-color {
-                margin-left: 4px !important;       
+                margin-left: 4px !important;
+                margin-right: 4px !important;
         }
 
 }
@@ -315,4 +316,21 @@ flex-direction: column !important; */
    #activity-list-v2>div.container>ul>li>div.info-container>div {
           margin: 10px 21px 0px !important;
    }
+}
+
+@media only screen and (min-width: 769px and max-width: 1023px) {
+       #activity-list-v2 .image-container img {
+            width: 291px !important;
+            height: 174px !important;
+            margin-left: 6px !important;
+        }
+        
+        #activity-list-v2 .activity .title {
+            margin-top: 0px !important;  
+            margin: 0px 12px !important;
+        }
+        
+        #activity-list-v2>div.container>ul>li>div.info-container>div{
+            margin: 0px 22px !important;  
+        }
 }
