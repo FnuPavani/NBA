@@ -301,3 +301,18 @@ flex-direction: column !important; */
 
 }
 
+@media only screen and (min-width: 1024px) {
+        
+  #activity-list-v2 .image-container img {
+        margin-left: 6px !important;
+   }
+        
+   #activity-list-v2 .activity .title, 
+        .ct-link-color {
+        margin: 0px 11px !important; 
+   }
+        
+   #activity-list-v2>div.container>ul>li>div.info-container>div {
+          margin: 10px 21px 0px !important;
+   }
+}
