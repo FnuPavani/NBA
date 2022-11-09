@@ -319,8 +319,8 @@ body {
         flex-direction: column !important;
         padding: 0px 0px 16px !important;
         position: static !important;
-/*         width: 100% !important; */
-        width: 323px !important;
+        width: 100% !important;
+/*         width: 323px !important; */
         height: 270px !important;
         left: 0px !important;
         top: 0px !important;
@@ -376,5 +376,10 @@ body {
     
     #activity-list-v2 .point-value.completed .fa-check-circle {
         margin-left: 5px !important;   
+    }
+}
+@media only screen and (min-width: 769px and max-width: 1023px) {
+    #activity-list-v2 .activity {
+        width: 323px !important;   
     }
 }
