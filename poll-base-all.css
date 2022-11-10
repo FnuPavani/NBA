@@ -216,7 +216,7 @@ body {
   }
 }
 
-@media only screen and (min-width: 768px) {
+/* @media only screen and (min-width: 768px) {
   .widget .header {
     display: flex !important;
     flex-direction: column !important;
@@ -263,13 +263,11 @@ body {
     padding: 0px 0px 1px 1px !important;
     position: static !important;
     width: 1001px !important;
-    /*         height: 246px !important; */
     left: 0px !important;
     top: 91px !important;
     flex: none !important;
     order: 1 !important;
     flex-grow: 0 !important;
-    /* margin: 40px 0px !important; */
     height: auto !important;
   }
    #activity-list-v2 ul {
@@ -341,10 +339,10 @@ body {
     align-self: stretch !important;
     flex-grow: 0 !important;
   }
-}
+} */
 
 /* ipad */
-/* @media only screen and (min-width: 769px) and (max-width: 1000px) {
+@media only screen and (min-width: 769px) and (max-width: 1000px) {
   #activity-list-v2 ul {
     display: flex !important;
     flex-direction: row !important;
@@ -497,7 +495,7 @@ body {
     align-self: stretch !important;
     flex-grow: 0 !important;
   }
-} */
+}
 /* @media only screen and (min-width: 769px) and (max-width: 1023px) {
   #activity-list-v2 .activity {
       width: 323px !important;   
