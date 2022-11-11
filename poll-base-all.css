@@ -147,7 +147,7 @@ body {
   }
 
   .widget .container {
-    padding: 10px !important;
+    padding: 0px !important;
     padding-left: 1px !important;
   }
 
@@ -220,6 +220,7 @@ body {
   
   .widget .container {
     padding: 0px !important;
+    padding-left: 1px !important;
     width: 1001px !important;
   }
 
