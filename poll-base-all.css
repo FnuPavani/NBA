@@ -246,7 +246,7 @@ body {
     padding: 0px 0px 16px !important;
     position: static !important;
     width: 323px !important;
-    height: 246px !important;
+    height: 270px !important;
     left: 0px !important;
     top: 0px !important;
     background: #FFFFFF !important;
@@ -260,6 +260,10 @@ body {
     /*margin-left: 10px !important;*/
     display: inline-grid;
   }
+  
+  #activity-list-v2 .activity .title {
+    margin-top: 20px !important;
+}
 
   #activity-list-v2 .image-container {
     display: flex !important;
