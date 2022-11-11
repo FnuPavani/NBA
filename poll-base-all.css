@@ -216,7 +216,7 @@ body {
   }
 }
 
-@media only screen and (min-width: 768px) {\
+@media only screen and (min-width: 768px) {
   
   .widget .container {
     padding: 0px !important;
@@ -256,7 +256,7 @@ body {
   }
   
   #activity-list-v2 .activity .title {
-    margin-top: 20px !important;
+    margin-top: 10 !important;
 }
 
   #activity-list-v2 .image-container {
