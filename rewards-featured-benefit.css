@@ -312,6 +312,10 @@ a:hover {
 
 
 @media only screen and (min-width: 768px) {
+    body {
+    width: 1001px !important;
+  }
+
     #reward-list-v2 .rewards {
         display: flex !important;
         flex-wrap: wrap !important;
