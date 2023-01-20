@@ -60,6 +60,10 @@ body {
   body {
     width: 1001px !important;
   }
+  
+  html {
+    overflow: hidden;
+  }
 
   #reward-list-v2 .rewards {
     display: flex !important;
