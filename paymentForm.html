@@ -27,19 +27,18 @@
       <label>Zip code:</label>
       <input type="text" />
     </div>
-        <button style="width:150px;height:30px;background-color:lightblue;border-radius:20px" onclick="sendMessage();"><b>Complete Payment</button>
+        <button style="width:150px;height:30px;background-color:lightblue;border-radius:20px" id="btn"><b>Complete Payment</button>
   </form>
   <script>
-    function sendMessage() {
-      console.log("hey");
+    document.getElementById("btn").addEventListener("click", (e) => {
       window.parent.postMessage(
-      {
-        type: 'button-click',
-        message: "Payment Successful",
-      },
-    '*'
-    )
-    }
+        {
+          type: "button-click",
+          message: "Payment Successful"
+        },
+        "*"
+      );
+  });
   </script>
 </body>
 </html>
