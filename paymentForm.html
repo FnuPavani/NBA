@@ -27,6 +27,12 @@
       <label>Zip code:</label>
       <input type="text" />
     </div>
+        <button style="width:150px;height:30px;background-color:lightblue;border-radius:20px"><b>Complete Payment</button>
   </form>
+  <script>
+    function sendMessage() {
+      window.parent.postMessage("Payment Successfull", "http://localhost:3000");
+    }
+  </script>
 </body>
 </html>
