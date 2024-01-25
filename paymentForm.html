@@ -31,6 +31,7 @@
         <button style="width:150px;height:30px;background-color:lightblue;border-radius:20px" id="btn"><b>Complete Payment</button>
   </form>
   <script>
+    //Send message to react component
     const input = document.getElementById("name");
     document.getElementById("btn").addEventListener("click", (e) => {
       window.parent.postMessage(
@@ -41,8 +42,11 @@
         "*"
       );
   });
+  //Display the value sent from react component
   window.addEventListener('message', (e) => {
+    if(e.data) {
      document.getElementById("title").innerHTML = e.data;
+    }
   });
   </script>
 </body>
