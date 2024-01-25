@@ -44,6 +44,7 @@
   });
   //Display the value sent from react component
   window.addEventListener('message', (e) => {
+    console.log(typeof(e.data))
     if(e.data.length > 1) return;
      document.getElementById("title").innerHTML = e.data;
   });
